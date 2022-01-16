@@ -21,8 +21,16 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://http2.mlstatic.com/D_NQ_NP_620438-MLB29512328329_022019-O.jpg",
+      "name": "Contra-file com fritas",
+      "price": "20.00",
+      "description": "Comida Brasileira",
+      "available": true,
+      "id": 4
     }
   ]
 }
